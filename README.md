@@ -3,6 +3,9 @@
 # githack
 https://raw.githack.com/
 
+# cdn
+https://cdn.jsdelivr.net/gh/[사용자명]/[레포지토리명]/[파일경로]
+
 # NotoSansKR
 https://fonts.google.com/specimen/Noto+Sans+KR
 

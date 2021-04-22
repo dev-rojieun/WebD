@@ -6,3 +6,5 @@ src: url(https://rawcdn.githack.com/dev-rojieun/WebD/931337f8b1e4aded32c910cca9b
         url(https://rawcdn.githack.com/dev-rojieun/WebD/931337f8b1e4aded32c910cca9b6550a0774ae80/font/Cafe24Dangdanghae/Cafe24Dangdanghaewoff) format('woff'),
         url(https://rawcdn.githack.com/dev-rojieun/WebD/931337f8b1e4aded32c910cca9b6550a0774ae80/font/Cafe24Dangdanghae/Cafe24Dangdanghae.otf) format('opentype');
 }
+
+.dangdang{font-family: "dangdang"; letter-spacing: normal;}

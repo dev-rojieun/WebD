@@ -54,3 +54,6 @@ src: url(https://rawcdn.githack.com/dev-rojieun/WebD/d881ad1ed0294e25251881e99cc
         url(https://rawcdn.githack.com/dev-rojieun/WebD/d881ad1ed0294e25251881e99ccb6393196a74ad/font/NotoSansKR/NotoSansKR-Black.woff) format('woff'),
         url(https://rawcdn.githack.com/dev-rojieun/WebD/d881ad1ed0294e25251881e99ccb6393196a74ad/font/NotoSansKR/NotoSansKR-Black.otf) format('opentype');
 }
+
+
+.NotoSans{font-family: 'Noto Sans KR'; }
