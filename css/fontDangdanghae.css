@@ -1,0 +1,8 @@
+@font-face {
+font-family: 'dangdang';
+font-style: normal;
+font-weight: normal;
+src: url(https://rawcdn.githack.com/dev-rojieun/WebD/931337f8b1e4aded32c910cca9b6550a0774ae80/font/Cafe24Dangdanghae/Cafe24Dangdanghae.woff2) format('woff2'),
+        url(https://rawcdn.githack.com/dev-rojieun/WebD/931337f8b1e4aded32c910cca9b6550a0774ae80/font/Cafe24Dangdanghae/Cafe24Dangdanghaewoff) format('woff'),
+        url(https://rawcdn.githack.com/dev-rojieun/WebD/931337f8b1e4aded32c910cca9b6550a0774ae80/font/Cafe24Dangdanghae/Cafe24Dangdanghae.otf) format('opentype');
+}
